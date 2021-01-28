@@ -23,6 +23,6 @@ This stage involves several more granular step including but not limited to:
   - Transforming: filtering , formatting, classifying (data type is redefined/changed to better suit analysis interpretation), merging data
  
 - <b>Load</b><br>
-This stage involves connecting to a database/server from the python environment and loading the data into the appropriate tables/schemas.  Two tables were created , called movies and ratings. On the Resources tab, the user can see a movies_query.png and a ratings_query.png files generated from PgAdmin 4.
+This stage involves connecting to a database/server from the python environment and loading the data into the appropriate tables/schemas.  Two tables were created , called movies and ratings. On the Resources tab, the user can see a movies_query.png and a ratings_query.png files generated from PgAdmin 2.
 
 
