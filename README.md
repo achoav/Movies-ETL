@@ -5,7 +5,7 @@ In this challenge, a Python script was written that performs all three ETL steps
 Utilizing python and SQL to build-out ETL pipelines that clean, transform, and load datasets into a database. 
 
 ##  Resources 
-- Python 3.7.6, JupyterLab 2.26
+- Python 3.7.6, JupyterLab 2.26, Jupyter Core 4.6.3
 - [PostgreSQL 11.10](https://www.postgresql.org/), [Pgadmin 4.20](https://www.pgadmin.org/) 
 - Movie Data sourced from [IMDB](https://developer.imdb.com/?ref=ft_ds), [Kaggle](https://www.kaggle.com/) <small><i>(note: due to size of the raw data files, they are not included within this repo) </i></small>
 
