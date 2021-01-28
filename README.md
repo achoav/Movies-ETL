@@ -6,7 +6,7 @@ Utilizing python and SQL to build-out ETL pipelines that clean, transform, and l
 
 ##  Resources 
 - Python 3.7.6, JupyterLab 2.26, Jupyter Core 4.6.3
-- [PostgreSQL 11.10](https://www.postgresql.org/), [Pgadmin 4.20](https://www.pgadmin.org/) 
+- [PostgreSQL 11.10](https://www.postgresql.org/), [Pgadmin 4.4.29](https://www.pgadmin.org/) 
 - Movie Data sourced from [IMDB](https://developer.imdb.com/?ref=ft_ds), [Kaggle](https://www.kaggle.com/) <small><i>(note: due to size of the raw data files, they are not included within this repo) </i></small>
 
 ## Overview 
@@ -23,6 +23,6 @@ This stage involves several more granular step including but not limited to:
   - Transforming: filtering , formatting, classifying (data type is redefined/changed to better suit analysis interpretation), merging data
  
 - <b>Load</b><br>
-This stage involves connecting to a database/server from the python environment and loading the data into the appropriate tables/schemas.  Two tables were created , called movies and ratings. On the Resources tab, the user can see a movies_query.png and a ratings_query.png files generated from PgAdmin 2.
+This stage involves connecting to a database/server from the python environment and loading the data into the appropriate tables/schemas.  Two tables were created , called movies and ratings. On the Resources tab, the user can see a movies_query.png and a ratings_query.png files generated from PgAdmin 4.4.29.
 
 
